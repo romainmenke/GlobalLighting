@@ -40,11 +40,6 @@ RMStar.sol().animateWithDuration(3.0, animations: { () -> Void in
 
 
 
-
-superView
-
-
-
 XCPlaygroundPage.currentPage.liveView = superView
 
 XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
